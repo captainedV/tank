@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="TankBattleGame">
+		<CBX_INST_ENTRY INSTANCE_NAME="|TankBattleGame|hex:hex_obj|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_ghm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TankBattleGame|hex:hex_obj|lpm_divide:Mod1" CBX_FILE_NAME="lpm_divide_j9m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TankBattleGame|hex:hex_obj|lpm_divide:Mod3" CBX_FILE_NAME="lpm_divide_j9m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TankBattleGame|hex:hex_obj|lpm_divide:Div1" CBX_FILE_NAME="lpm_divide_ghm.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TankBattleGame|hex:hex_obj|lpm_divide:Mod0" CBX_FILE_NAME="lpm_divide_j9m.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|TankBattleGame|hex:hex_obj|lpm_divide:Mod2" CBX_FILE_NAME="lpm_divide_j9m.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
